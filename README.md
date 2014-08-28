@@ -1,4 +1,4 @@
 node-demo
 ========
 
-My node learning log, there is samples and demos about node.
+My node learning log, there are samples and demos about node.
