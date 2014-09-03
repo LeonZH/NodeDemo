@@ -5,7 +5,8 @@
   "main": "event.js",
   "dependencies": {
     "restify": "^2.8.2",
-    "mongojs": "^0.14.0"
+    "mongojs": "^0.14.0",
+    "formidable": "^1.0.15"
   },
   "devDependencies": {},
   "scripts": {

@@ -1,6 +1,5 @@
 /**
  * Created by lz16 on 2014/8/21 0021.
- * http://www.w3cschool.cc/nodejs/node-js-get-post.html
  */
 
 console.log('---------------get---------------------------------');
